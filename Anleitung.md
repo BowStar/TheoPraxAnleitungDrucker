@@ -534,20 +534,19 @@ montieren sie die Nozzle wieder am Extruder.
 
 **Filament wechseln**:
 
-Die Nozzle kann gerne mal beim wechseln des Filaments das Filament abreißen und
-die Nozzle verstopfen.
+Die Nozzle kann gerne einmal beim Wechseln des Filaments dieses abreißen und folglich verstopfen die Nozzle.
 
-Zum reinigen bauen sie den Extrudermotor aus und legen sie ihn samt
+Zum Reinigen bauen Sie den Extrudermotor aus und legen Sie ihn zusammen mit dem
 Extruder-Lüfter zur Seite.
-Heizen sie die Nozzle auf 240 °C hoch.
+Heizen Sie die Nozzle auf 240 °C hoch.
 
 > Prepare&gt;&gt;Preheat ABS
 
-Nehmen sie einen dünnen, spitzen Gegenstand zur Hilfe und drücken sie das
+Nehmen Sie einen dünnen, spitzen Gegenstand zur Hilfe und drücken Sie das
 Filament durch die Nozzle, sodass sie am anderen Ende herauskommt.
-Nehmen sie dann ein Stück Filament und schieben es hinterher.
-Ziehen sie dann das Filament in einer flüssigen Bewegung wieder heraus,
-und setzen den Extruder wieder zusammen.
+Anschließend nehmen Sie ein Stück Filament und schieben es hinterher.
+Ziehen Sie dann das Filament in einer flüssigen Bewegung wieder heraus,
+und setzen Sie den Extruder wieder zusammen.
 
 **Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)**:
 
@@ -623,7 +622,7 @@ und setzen den Extruder wieder zusammen.
 | Name | PLA | ABS | PVA |
 | :--- | :--- | :--- | :--- |
 | **Vollständiger Name** | Polylactide | Acrylnitril-Butadien-Styrol- Copolymere | Polyvinylacetat |
-| **Preis \(in �/kg\)** | 20 | 20-40 | ca. 100 |
+| **Preis \(in €/kg\)** | 20 | 20-40 | ca. 100 |
 | **Gefahrenbezeichung \(Kennbezeichnung\)** | keine | Reizend \(Xi\) | keine |
-| **Eigenschaften** | biologisch abbaubar | hohe Belastbarkeit | wasserl�slich \(Druck von St�tzmaterialien\) |
+| **Eigenschaften** | biologisch abbaubar | hohe Belastbarkeit | wasserlöslich \(Druck von Stützmaterialien\) |
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
